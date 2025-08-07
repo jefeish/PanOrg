@@ -1,0 +1,15 @@
+organizations:
+  - name: PanOrg
+    clientId: Iv23li204uWVTW2bUzA2
+    privatePemPath: ./private-key.pem
+    installationId: "53975571"
+    
+  - name: AnotherOrg
+    clientId: Iv23li204uWVTW2bUzA2
+    privatePemPath: ./private-key.pem
+    installationId: "53975571"
+    
+  - name: ThirdOrg
+    clientId: Iv23li204uWVTW2bUzA2
+    privatePemPath: ./private-key.pem
+    installationId: "53975571"
