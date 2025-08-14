@@ -12,6 +12,7 @@
     "probot-app"
   ],
   "scripts": {
+    "dev": "nodemon",
     "start": "probot run ./src/index.js",
     "test": "node --test"
   },

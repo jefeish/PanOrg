@@ -3,13 +3,19 @@ organizations:
     clientId: Iv23li204uWVTW2bUzA2
     privatePemPath: ./private-key.pem
     installationId: "53975571"
-    
+    adminRepo: Safe-Settings-Admin
+    destinationFolder: .github/
+
   - name: AnotherOrg
-    clientId: Iv23li204uWVTW2bUzA2
+    clientId: Iv23li204uWVTW2bUXXX
     privatePemPath: ./private-key.pem
-    installationId: "53975571"
-    
+    installationId: "12345678"
+    adminRepo: Safe-Settings-Admin
+    destinationFolder: .github/
+
   - name: ThirdOrg
-    clientId: Iv23li204uWVTW2bUzA2
+    clientId: Iv23li204uWVTW2bUXXX
     privatePemPath: ./private-key.pem
-    installationId: "53975571"
+    installationId: "12345678"
+    adminRepo: Safe-Settings-Admin
+    destinationFolder: .github/

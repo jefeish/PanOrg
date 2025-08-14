@@ -1,3 +1,8 @@
+/**
+ * @describe This module provides functions to generate a JWT token for GitHub App authentication
+ * and to retrieve an installation access token using that JWT. 
+ * 
+ */
 import axios from 'axios';
 import jwt from 'jsonwebtoken';
 import fs from 'fs';
